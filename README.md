@@ -16,3 +16,9 @@ Welcome to my academic portfolio for Essential Tooling for Programmers (CEP146)!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+## contact information
+- [ ] Dokereke@myseneca.ca
+- [ ] https://www.linkedin.com/in/david-okereke-634b33243/
+- [ ] https://github.com/david-katsuragi
+- [ ] https://myanimelist.net/profile/DavidOkereke (my only personal website)
